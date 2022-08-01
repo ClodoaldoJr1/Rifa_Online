@@ -1,0 +1,43 @@
+.topo{
+   width: auto;
+   margin-top: 25px;
+}
+
+.logo{
+    width: 350px; height: 350px;
+    border-radius: 200px;
+    margin-bottom: 20px;
+}
+
+body{
+    background-color: rgb(125, 136, 168);
+    text-align: center;
+}
+
+.h1-bv{
+    color: rgb(41, 38, 38);
+}
+
+.boas-vindas{
+    color: rgb(41,38,38);
+    font-size: 25px;
+}
+
+.button{
+    width: 150px;
+    border-radius: 50px;
+    font-size: 13px;
+    font-weight: bold;  
+}
+
+.regras{
+    background-color: rgb(125, 136, 168);
+}
+
+.regras-h1{
+    margin-left: 40%;
+    margin-right: 40%;
+    background-color: rgba(12, 8, 214, 0.74);
+    border-radius: 50px;
+    color: aliceblue;
+}
