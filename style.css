@@ -30,14 +30,27 @@ body{
     font-weight: bold;  
 }
 
-.regras{
-    background-color: rgb(125, 136, 168);
-}
-
 .regras-h1{
     margin-left: 40%;
     margin-right: 40%;
     background-color: rgba(12, 8, 214, 0.74);
     border-radius: 50px;
     color: aliceblue;
+}
+
+.regras{
+    font-size: 17px;
+    margin-inline: 37%;
+}
+
+.result{
+    margin-left: 40%;
+    margin-right: 40%;
+    background-color: rgba(12, 8, 214, 0.74);
+    border-radius: 50px;
+    color: aliceblue
+}
+
+.result-1{
+    font-size: 17px;
 }
